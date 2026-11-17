@@ -6,7 +6,7 @@
   <i>Developer • Programmer • Digital Creator</i>
 </p><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16002E,100:080018&height=2&section=header" width="70%"/>
-</p>🌌 About Me
+</p>🌌 About Me 
 
 Hello! I'm Iliya Dabzad, also known as NYXOR.
 
