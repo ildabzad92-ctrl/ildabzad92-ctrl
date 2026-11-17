@@ -1,68 +1,68 @@
-<!-- 🌌 ILIYA DABZAD | NYXOR --><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080018,50:35106B,100:090014&height=180&section=header&text=ILIYA%20DABZAD&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
-</p><p align="center">
-  <img src="https://github.com/idabzad92-ctrl.png" width="145" style="border-radius:50%;" />
-</p><h1 align="center">𝑰𝒍𝒊𝒚𝒂 𝑫𝒂𝒃𝒛𝒂𝒅 🇮🇷</h1><h2 align="center">✦ N Y X O R ✦</h2><p align="center">
-  <i>Developer • Programmer • Digital Creator</i>
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:16002E,100:080018&height=2&section=header" width="70%"/>
-</p>🌌 About Me 
+<!-- 🌌 NYXOR | ILIYA DABZAD — GITHUB PROFILE --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:02010A,25:170044,55:301078,80:101B50,100:02010A&height=220&section=header&text=ILIYA%20DABZAD&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" /></div><table>
+<tr>
+<td width="68%" valign="middle">👋 Hi, I'm Iliya Dabzad 🇮🇷
 
-Hello! I'm Iliya Dabzad, also known as NYXOR.
+"NYXOR"
 
-I'm passionate about programming, technology and creating new digital experiences.
+Developer | Programmer | Digital Creator
 
-I enjoy turning creative ideas into real projects through code.
+I enjoy turning ideas into real digital projects.
 
-🚀 About Me
+- 💻 Interested in programming and technology
+- 🚀 Building websites, bots and software
+- 🐍 Learning and developing with Python
+- 🌐 Exploring web development
+- ♟️ Interested in chess and problem solving
+- 🌌 Always learning, creating and improving
 
-- 👨‍💻 Developer & Digital Creator
-- 🌐 Building websites and messaging bots
-- 💡 Exploring new ideas and technologies
-- 🧠 Always learning and improving
-- ⚡ Turning imagination into reality
+</td>
+<td width="32%" align="center" valign="middle"><img src="https://github.com/idabzad92-ctrl.png" width="180" style="border-radius:50%;" />NYXOR
 
-🪐 My Tech Universe
+</td>
+</tr>
+</table>---
 
-<p align="center">
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="55"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="55"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="55"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="55"/></a>
-  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="55"/></a>
-  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="55"/></a>
-</p><p align="center">
-  <i>Every skill is a new planet to explore.</i>
-</p>🛰️ My Projects
-
-ZadLab — A digital project focused on building websites, bots and creative software solutions.
-
-🌠 My Interests
-
-- 💻 Programming & Software Development
-- 🌌 Space, Science & Technology
-- 🎮 Game Development
-- ♟️ Chess & Problem Solving
-- 🚀 Creating innovative digital projects
-
-👨‍🚀 A Little About Me
-
-I love coding because it allows me to transform ideas into something real.
-
-I'm curious, creative and always excited to learn something new. I believe every great project starts with a simple idea and the courage to build it.
-
-My journey is just beginning.
-
-✨ My Philosophy
+🪐 TECH UNIVERSE
 
 <p align="center">
-  <b>THINK. CREATE. INNOVATE.</b>
-  <br/>
-  <i>Dream beyond limits. Build beyond expectations.</i>
-</p><p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090014,50:35106B,100:080018&height=170&section=footer&text=ILIYA%20DABZAD&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" width="100%"/>
-</p><p align="center">
-  <b>© Iliya Dabzad | NYXOR</b>
-  <br/>
-  <sub>Building my universe, one line of code at a time. 🌌</sub>
-</p>
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+</p>🚀 WHAT I DO
+
+Field| Description
+🌐 Web Development| Creating websites and web experiences
+🤖 Bot Development| Building messaging bots
+🐍 Python| Developing software and useful tools
+🎮 Creative Projects| Experimenting with games and digital ideas
+
+🌑 PROJECTS
+
+I enjoy creating projects that turn creative ideas into practical digital experiences.
+
+ZadLab — My digital project focused on website development, messaging bots and software creation.
+
+👨‍🚀 ABOUT ME
+
+I'm Iliya, also known as NYXOR.
+
+I'm passionate about coding, programming, technology and discovering new things. I enjoy learning new skills, experimenting with ideas and building projects that make a difference.
+
+My goal is to keep improving, create useful digital products and turn imagination into reality.
+
+"THINK. CREATE. INNOVATE."
+
+---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:02010A,50:301078,100:02010A&height=100&section=footer&text=NYXOR&fontSize=35&fontColor=FFFFFF&animation=fadeIn" width="100%" />Thanks for visiting my profile! 🌌
+
+</div>
